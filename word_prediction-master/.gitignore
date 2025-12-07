@@ -1,0 +1,6 @@
+etc/
+asset/
+data/*
+*.pyc
+_*
+*~*
